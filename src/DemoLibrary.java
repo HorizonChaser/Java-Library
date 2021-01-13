@@ -52,7 +52,7 @@ public class DemoLibrary {
 		System.out.println("------------------------| Acknowledgement |------------------------");
 		System.out.println("Thanks for using this DemoLibrary application written by HorizonChaser");
 		System.out.println("Powered by Java 13, Eclipse 2019R, Win10 Prof.1909 and Expectation(期望)");
-		System.out.println("Institude of C.S.    侯文轩        19030100207");
+		System.out.println("Institude of C.S.    Horizon Chaser");
 		System.out.println("Finished at 2020/04/17");
 		in.close();
 		System.exit(0);
